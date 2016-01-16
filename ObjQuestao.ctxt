@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=questao
+comment0.target=void\ setQuestao(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getQuestao()
+comment2.params=conteudo\ pos
+comment2.target=void\ addOpcao(java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String[]\ getOpcao()
+comment4.params=correta
+comment4.target=void\ setCorreta(byte)
+comment5.params=
+comment5.target=byte\ getCorreta()
+numComments=6

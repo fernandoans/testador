@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Arquivo()
+comment1.params=
+comment1.target=void\ contar()
+comment2.params=valor
+comment2.target=java.lang.String\ linhaSel(int)
+comment3.params=linha\ pos
+comment3.target=void\ adicionarOpcaoNoObj(java.lang.String,\ byte)
+comment4.params=pos
+comment4.target=void\ carregarOpcao(byte)
+comment5.params=
+comment5.target=void\ carregarOutrasOpcoes()
+comment6.params=
+comment6.target=void\ carregarCorreta()
+comment7.params=
+comment7.target=ObjQuestao\ carregar()
+numComments=8

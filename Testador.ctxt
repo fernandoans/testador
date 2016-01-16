@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Testador()
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ carregar()
+comment4.params=
+comment4.target=void\ verificar()
+comment5.params=linha
+comment5.target=java.lang.String\ linhaQuebrada(java.lang.String)
+comment6.params=escolhida
+comment6.target=void\ testar(byte)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
