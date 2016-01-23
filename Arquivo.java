@@ -5,7 +5,7 @@ import java.io.IOException;
 public class Arquivo {
 
     private int totQuestao;
-    private final String nomeArquivo = "FigurasDeSintaxe.qst";
+    private final String nomeArquivo = "materias/FigurasDeSintaxe.qst";
     private ObjQuestao objQuestao;
     // Para evitar de carregar respostas duplicadas
     private int sort1 = -1, sort2 = -1, sort3 = -1;
