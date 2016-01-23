@@ -2,9 +2,9 @@ Projeto Java para o BlueJ que produz um simulado de questões com base em um arq
 
 O formato do Arquivo de Questões é:
 
-palavra1;qual seu significado
-palavra2;qual seu significado
-palavra3;qual seu significado
+palavra1;qual seu significado<br/>
+palavra2;qual seu significado<br/>
+palavra3;qual seu significado<br/>
 ...
 
 O programa lerá este arquivo e montará uma questão com base no significado, cabe ao usuário marcar qual a palavra correta. Este programa é excelente para treinar matérias no qual é necessário "decorar" vários termos.
@@ -23,6 +23,6 @@ Sendo obviamente necessário compilá-lo primeiro com:
 
 javac Testador
 
-Espero que possa ser muito útil a estudantes.
+Espero que possa ser muito útil a estudantes. Veja as telas para uma melhor referência
 
 Fernando Anselmo
