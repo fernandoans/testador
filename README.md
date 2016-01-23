@@ -1,4 +1,4 @@
-Este projeto é um projeto Java para o BlueJ que produz um simulado de questões com base em um arquivo.
+Projeto Java para o BlueJ que produz um simulado de questões com base em um arquivo.
 
 O formato do Arquivo de Questões é:
 
