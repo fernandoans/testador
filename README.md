@@ -26,3 +26,4 @@ javac Testador
 Espero que possa ser muito útil a estudantes. Veja as telas para uma melhor referência
 
 Fernando Anselmo
+# projsSoltos
